@@ -1,7 +1,7 @@
 {
   "catalogs": {},
   "aliases": {
-    "camel": {
+    "hello": {
       "script-ref": "dsl/hello.java",
       "description": "Hello, JBang Catalog!"
     }
