@@ -1,1 +1,9 @@
-{}
+{
+  "catalogs": {},
+  "aliases": {
+    "camel": {
+      "script-ref": "dsl/hello.java",
+      "description": "Hello, JBang Catalog!"
+    }
+  }
+}
