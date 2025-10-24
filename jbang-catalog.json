@@ -1,9 +1,10 @@
 {
   "catalogs": {},
   "aliases": {
-    "hello": {
-      "script-ref": "dsl/hello.java",
-      "description": "Hello, JBang Catalog!"
+    "get-koukin": {
+      "script-ref": "dsl/KoukinshuunouScraper.java",
+      "args": ["--proxy="],
+      "description": "東京都の公金収納金融機関を取得します。"
     }
   }
 }
