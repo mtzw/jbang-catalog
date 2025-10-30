@@ -1,10 +1,9 @@
 {
   "catalogs": {},
   "aliases": {
-    "get-koukin": {
-      "script-ref": "dsl/KoukinshuunouScraper.java",
-      "args": ["--proxy="],
-      "description": "東京都の公金収納金融機関を取得します。"
+    "csv-to-access": {
+      "script-ref": "dsl/CsvToAccess.java",
+      "description": "Converts CSV files in a directory to an Access DB."
     }
   }
 }
